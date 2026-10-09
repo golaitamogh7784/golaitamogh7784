@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi👋
 
-<!--
-**golaitamogh7784/golaitamogh7784** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+First-year IT student diving into low-level systems, C, and computing fundamentals. 
+Building a habit of shipping clean, structured code publicly rather than leaving experiments scattered across local folders.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Current Tech Focus
+- **Languages & Core:** C (pointer mechanics, memory allocation, data structures)
+- **Workflow:** VS Code, Git/GitHub, Linux environments
+- **Objective:** Writing disciplined, reproducible code from the ground up
+
+### ⚡ Beyond the Terminal
+When I'm not writing code or dissecting memory bugs, you'll find me exploring:
+- **Strategy & Focus:** Chess
+- **Culture & Stories:** Anime, fiction, and philosophy reads
+- **Creativity:** Art and music
+- **Machinery:** Vehicles, and high-performance tech
+
+---
+*Curious by nature. Constantly refining the setup.*
